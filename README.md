@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This project aims to build a machine learning model to detect fraudulent credit card transactions. The dataset, available on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), contains anonymized transaction features and class labels indicating fraud.
+This project aims to build a machine learning model to detect fraudulent credit card transactions. The dataset, available on [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection), contains anonymized transaction features and class labels indicating fraud.
 
 ## Project Overview
 
@@ -20,8 +20,7 @@ This project aims to build a machine learning model to detect fraudulent credit 
 
 - **Python**  
 - **Libraries:** scikit-learn, pandas, imbalanced-learn, matplotlib  
-- **Data Source:** [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- **Data Source:** [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
-## File Description
 
 - **`credit_card_fraud_detection.ipynb`**: Contains the full project workflow, from data preprocessing to model evaluation.
